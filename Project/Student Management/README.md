@@ -4,7 +4,7 @@
 
 《微机原理与接口技术》作业，使用汇编语言编成，主要涉及子程序、DOS功能调用、循环、跳转和冒泡排序等基本语法。
 
-![学生学籍管理系统](http://7xr64j.com1.z0.glb.clouddn.com/school-project/assemble/main.png)
+//![学生学籍管理系统](http://7xr64j.com1.z0.glb.clouddn.com/school-project/assemble/main.png)
 
 
 ## 功能说明
