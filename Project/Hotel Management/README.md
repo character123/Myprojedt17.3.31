@@ -2,7 +2,7 @@
 
 ## 简要介绍
 
-该程序于2015年6月完成，是大二下数据结构课程设计的作业。主要使用C++，基于Qt的图形化界面，使用了SQLite数据库。
+该程序于2016年6月完成，是大二下数据结构课程设计的作业。主要使用C++，基于Qt的图形化界面，使用了SQLite数据库。
 
 ![程序界面](http://7xr64j.com1.z0.glb.clouddn.com/school-project/hotel/Main.png)
 
